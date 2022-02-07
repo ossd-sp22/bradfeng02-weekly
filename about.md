@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm a sophomore at CAS studying computer science
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
+I'm from California and my favorite food is potatoes :)
