@@ -17,6 +17,9 @@ avatar: https://github.com/BradFeng02.png
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: bradfeng02 avatar
 
+# where to break off preview
+excerpt_separator: <!--more-->
+
 # CUSTOMIZE
 #
 # Flags below are optional - customize them if you wish
