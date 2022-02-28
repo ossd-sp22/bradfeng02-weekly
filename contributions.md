@@ -20,8 +20,8 @@ Replace the first row with your own contribution.
 
 
 
-| Date #       | Contribution (Link)  | Type  | Description |
+| Date # | Contribution (Link) | Type | Description |
 |---|:---|:---|:---|
-| Feb 27   | https://github.com/joannakl/ossd/issues/7    | course website (syllabus)    |   Reported issue about missing book cover    |
+| Feb 27 | <https://github.com/joannakl/ossd/issues/7> | course website (syllabus) | Reported issue about missing book cover |
 |     |     |     |      |
 |     |     |     |      |
