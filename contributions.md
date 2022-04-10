@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date # | Contribution (Link) | Type | Description |
 |---|:---|:---|:---|
-| Feb 27 | <https://github.com/joannakl/ossd/issues/7> | course website (syllabus) | Reported issue about missing book cover |
-|     |     |     |      |
+| Feb 27 | [link](https://github.com/joannakl/ossd/issues/7) | course website (syllabus) | Reported issue about missing book cover |
+| Apr 10 | [link](https://en.wikipedia.org/w/index.php?title=Nawabagh_Ganderbal&oldid=1082004265) | Wikipedia | Fixed grammatrical errors in an article |
 |     |     |     |      |
