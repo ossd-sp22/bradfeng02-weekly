@@ -24,4 +24,4 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Feb 27 | [link](https://github.com/joannakl/ossd/issues/7) | course website (syllabus) | Reported issue about missing book cover |
 | Apr 10 | [link](https://en.wikipedia.org/w/index.php?title=Nawabagh_Ganderbal&oldid=1082004265) | Wikipedia | Fixed grammatrical errors in an article |
-|     |     |     |      |
+| Apr 11 | [link](https://en.wikipedia.org/w/index.php?title=Vampire_Survivors&oldid=1082064554), [edit](https://en.wikipedia.org/w/index.php?title=Vampire_Survivors&direction=next&oldid=1082064554) | Wikipedia | Fixed several errors and added some details |
