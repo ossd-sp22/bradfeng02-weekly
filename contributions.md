@@ -26,3 +26,4 @@ Replace the first row with your own contribution.
 | Apr 10 | [link](https://en.wikipedia.org/w/index.php?title=Nawabagh_Ganderbal&oldid=1082004265) | Wikipedia | Fixed grammatrical errors in an article |
 | Apr 11 | [link](https://en.wikipedia.org/w/index.php?title=Vampire_Survivors&oldid=1082064554), [edit](https://en.wikipedia.org/w/index.php?title=Vampire_Survivors&oldid=1082064554) | Wikipedia | Fixed several errors and added some details |
 | Apr 14 | [link](https://en.wikipedia.org/w/index.php?title=AC_Hotels&oldid=1082723056) | Wikipedia | Fixed minor typos |
+| Apr 30 | [link](https://en.wikipedia.org/w/index.php?title=Bubble_tea&oldid=1085484005) | Wikipedia | reworded a sentence |
